@@ -1,4 +1,4 @@
-![image](https://github.com/shk15/Ndg/assets/92705663/0c03b211-aea9-4949-a2f1-04251dfd7a33)# Portfolio
+
 
 Warehouse Management 
 MindMap Feature : ![image](https://github.com/shk15/Ndg/blob/main/MindMap%20Warehouse.jpeg)
