@@ -1,5 +1,6 @@
 Warehouse Management 
-MindMap Feature : 
+
+**MindMap** 
 ![image](https://github.com/shk15/Ndg/blob/main/MindMap%20Warehouse.jpeg)
 
 Wireframe : 
